@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "jp-product-card",
+  "name": "jeypi-product-card",
   "author": "Jose Pablo",
   "module": "dist/jp-product-card.esm.js",
   "size-limit": [
